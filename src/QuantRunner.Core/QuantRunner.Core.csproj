@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>12</LangVersion>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Nullable>annotations</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Optimize Condition="'$(Optimize)' == ''">true</Optimize>
+    <Description>QuantRunner.Core - streaming LLM quantization and token runner</Description>
+  </PropertyGroup>
+</Project>
