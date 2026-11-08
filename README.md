@@ -1,3 +1,5 @@
+## This was made by GLM-5.3-flash, you may study, use or fork this repo but it must retain the MIT License
+
 # QuantRunner
 
 **A streaming quantization + token-inference engine in pure C# (.NET 8, zero NuGet dependencies) — built to run very large LLMs (up to and beyond 2.8T parameters) on ordinary hardware, faster than AirLLM.**
